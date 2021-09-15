@@ -1,0 +1,918 @@
+/* МЕДИЯ ЗАЯВКИ ЗА МАЛКИ ЕКРАНИ */
+
+
+
+
+@media screen and (max-width: 1300px) {
+
+    body {
+        background-color: rgb(247, 255, 180);
+    }
+
+    .imglogo {
+        width: 100%;
+        height: 100%;
+    }
+
+    .imglogo1 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .obs {
+        margin-left: 16px;
+        margin-right: 16px;
+        background-color: rgb(247, 255, 180);
+    }
+
+    .nadnav {
+        width: 100%;
+        height: 100%;
+    }
+
+    .navigaciq {
+        width: 24%;
+        height: 290%;
+        float: left;
+        background-color: orange;
+        display: table-caption;
+        text-align: center;
+    }
+
+    .informaciqzml {
+        display: none;
+    }
+
+    .str {
+        text-decoration: none;
+        color: yellow;
+        text-align: center;
+        font-size: 31px;
+        padding: 29px;
+        width: 24%;
+        height: 290%;
+    }
+
+    .str:hover {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+
+    .content {
+        padding: 1%;
+        float: right;
+    }
+
+    .content {
+        padding: 2%;
+    }
+
+    .video {
+        width: 90%;
+        height: 90%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+    }
+
+    .vd {
+        width: 80%;
+        height: 80%;
+        padding: 5%;
+    }
+
+    .video1 {
+        width: 98%;
+        height: 98%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+    }
+
+    .glavcontent {
+        padding: 1%;
+        float: right;
+        width: 68%;
+        height: 68%;
+    }
+
+    .glavvd {
+        width: 66%;
+        height: 60%;
+        padding: 5%;
+    }
+
+    .vd1 {
+        width: 80%;
+        height: 80%;
+        padding: 5%;
+    }
+
+    .futer {
+        width: 96.2%;
+        height: 100%;
+        float: inline-end;
+        display: -webkit-inline-box;
+    }
+
+    footer {
+        width: 100%;
+        height: 100%;
+        background-color: orange;
+        color: yellow;
+        padding: 2%;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .image1 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image2 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image3 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image4 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image5 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image6 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image7 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image8 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image9 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .snimki {
+        width: 50%;
+        height: 50%;
+        float: right;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .snimki1 {
+        width: 50%;
+        height: 50%;
+        float: left;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .image01 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image02 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image03 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image04 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .informaciqobsht {
+        padding: 2%;
+        float: right;
+        width: 98%;
+        height: 98%;
+    }
+
+    .informaciq {
+        padding: 2%;
+        float: right;
+        width: 98%;
+        height: 98%;
+    }
+
+    .info1 {
+        width: 100%;
+        height: 100%;
+        padding: 1%;
+    }
+
+    .info2 {
+        width: 100%;
+        height: 100%;
+        padding: 1%;
+    }
+
+    .infoglav {
+        width: 51%;
+        height: 51%;
+        padding: 1%;
+        float: right;
+    }
+
+    .glin {
+        width: 20%;
+        height: 20%;
+        padding: 1%;
+    }
+
+}
+
+@media screen and (max-width: 1266px) {
+    .content {
+        width: 67%;
+        height: 67%;
+        padding: 1%;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .content {
+        width: 70%;
+        height: 70%;
+        padding: 1%;
+        float: right;
+    }
+
+    .imglogo1 {
+        width: 99.5%;
+        height: 100%;
+        padding: 5px;
+    }
+
+    .contentvideo {
+        float: left;
+        padding: 6%;
+    }
+
+    .video {
+        width: 74%;
+        height: 74%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+        float: right;
+    }
+
+    .informaciqzml {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+
+    .str {
+        font-size: 26px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+
+    .informaciq {
+        width: 64%;
+        height: 64%;
+        float: left;
+    }
+
+    .info1 {
+        width: 30%;
+        height: 30%;
+    }
+
+    .info2 {
+        width: 30%;
+        height: 30%;
+    }
+
+    .informaciq {
+        display: none;
+    }
+
+    .informaciqzml {
+        display: block;
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+
+    .navigaciq {
+        width: 100%;
+        height: 100%;
+        float: left;
+        background-color: orange;
+        display: table-caption;
+        text-align: center;
+    }
+
+    .imglogo1 {
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+    }
+
+    .str {
+        text-decoration: none;
+        color: yellow;
+        text-align: center;
+        font-size: 31px;
+        padding: 29px;
+        width: 24%;
+        height: 290%;
+    }
+
+    .str:hover {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+
+    .nadglvnav {
+        display: block;
+    }
+
+    .navigaciq {
+        display: none;
+    }
+
+    .snimki {
+        width: 98%;
+        height: 98%;
+        float: unset;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .snimki1 {
+        width: 98%;
+        height: 98%;
+        float: unset;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .image1 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image2 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image3 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image4 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image5 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image6 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image7 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image8 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image9 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image01 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image02 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image03 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .image04 {
+        width: 98%;
+        height: 40%;
+        float: unset;
+    }
+
+    .content {
+        padding: 2%;
+    }
+
+    .video {
+        width: 98%;
+        height: 98%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+    }
+
+    .glavcontent {
+        padding: 1%;
+        width: 98%;
+        height: 98%;
+    }
+
+    .glavvd {
+        width: 98%;
+        height: 98%;
+        padding: 1%;
+    }
+
+    .vd {
+        width: 98%;
+        height: 98%;
+        padding: 1%;
+    }
+
+    .vd1 {
+        width: 98%;
+        height: 98%;
+    }
+
+    .video1 {
+        width: 98%;
+        height: 98%;
+    }
+
+    .informaciqobsht {
+        float: unset;
+        width: 98%;
+        height: 98%;
+        padding: 2%;
+    }
+
+    .informaciq {
+        padding: 2%;
+        float: unset;
+        width: 98%;
+        height: 98%;
+    }
+
+    .info1 {
+        width: 98%;
+        height: 98%;
+        padding: 2%;
+    }
+
+    .info2 {
+        width: 98%;
+        height: 98%;
+        padding: 2%;
+    }
+
+    .infoglav {
+        width: 98%;
+        height: 98%;
+        padding: 2%;
+        float: right;
+    }
+
+    .vsin {
+        padding: 26%;
+    }
+
+}
+
+@media screen and (max-width: 800px) {
+
+    .vsin {
+        padding: 18%;
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+
+    .vsin {
+        padding: 13%;
+    }
+
+    footer {
+        font-size: 29px;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+
+    .vsin {
+        padding: 2%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/* МЕДИЯ ЗАЯВКИ ЗА ГОЛЕМИ ЕКРАНИ */
+
+
+
+
+@media screen and (min-width: 1300px) {
+
+    body {
+        background-color: rgb(247, 255, 180);
+    }
+
+    .imglogo {
+        width: 100%;
+        height: 100%;
+    }
+
+    .imglogo1 {
+        width: 99.4%;
+        height: 100%;
+        padding: 5px;
+    }
+
+    .obs {
+        margin-left: 16px;
+        margin-right: 16px;
+        background-color: rgb(247, 255, 180);
+    }
+
+    .nadnav {
+        width: 100%;
+        height: 100%;
+    }
+
+    .navigaciq {
+        width: 24%;
+        height: 290%;
+        float: left;
+        background-color: orange;
+        display: table-caption;
+        text-align: center;
+    }
+
+    .informaciqzml {
+        display: none;
+    }
+
+    .str {
+        text-decoration: none;
+        color: yellow;
+        text-align: center;
+        font-size: 48px;
+        padding: 29px;
+        width: 24%;
+        height: 290%;
+    }
+
+    .str:hover {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+
+    .content {
+        padding: 1%;
+        float: right;
+    }
+
+    .content {
+        padding: 2%;
+    }
+
+    .video {
+        width: 90%;
+        height: 90%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+    }
+
+    .vd {
+        width: 80%;
+        height: 80%;
+        padding: 5%;
+    }
+
+    .video1 {
+        width: 98%;
+        height: 98%;
+        border-radius: 34px;
+        background-color: yellow;
+        padding: 1%;
+    }
+
+    .glavcontent {
+        padding: 1%;
+        float: right;
+        width: 68%;
+        height: 68%;
+    }
+
+    .glavvd {
+        width: 66%;
+        height: 60%;
+        padding: 5%;
+    }
+
+    .vd1 {
+        width: 80%;
+        height: 80%;
+        padding: 5%;
+    }
+
+    .futer {
+        width: 96%;
+        height: 100%;
+        float: inline-end;
+        display: -webkit-inline-box;
+    }
+
+    footer {
+        width: 100%;
+        height: 100%;
+        background-color: orange;
+        color: yellow;
+        padding: 2%;
+        font-size: 56px;
+        text-align: center;
+    }
+
+    .image1 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image2 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image3 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image4 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image5 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image6 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image7 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image8 {
+        width: 40%;
+        height: 40%;
+        float: right;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image9 {
+        width: 40%;
+        height: 40%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .snimki {
+        width: 50%;
+        height: 50%;
+        float: right;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .snimki1 {
+        width: 50%;
+        height: 50%;
+        float: left;
+        padding: 2%;
+        border-radius: 34px;
+    }
+
+    .image01 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image02 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image03 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .image04 {
+        width: 20%;
+        height: 20%;
+        float: left;
+        padding: 1%;
+        border-radius: 34px;
+    }
+
+    .informaciqobsht {
+        padding: 2%;
+        float: right;
+        width: 98%;
+        height: 98%;
+    }
+
+    .informaciq {
+        padding: 2%;
+        float: right;
+        width: 98%;
+        height: 98%;
+    }
+
+    .info1 {
+        width: 100%;
+        height: 100%;
+        padding: 1%;
+    }
+
+    .info2 {
+        width: 100%;
+        height: 100%;
+        padding: 1%;
+    }
+
+    .infoglav {
+        width: 51%;
+        height: 51%;
+        padding: 1%;
+        float: right;
+    }
+
+    .glin {
+        width: 20%;
+        height: 20%;
+        padding: 1%;
+    }
+
+}
+
+@media screen and (min-width: 850px) {
+    .navigaciq {
+        display: block !important;
+        visibility: visible;
+    }
+
+    .nadglvnav {
+        display: none;
+    }
+}
